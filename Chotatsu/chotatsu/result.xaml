@@ -1,0 +1,224 @@
+﻿<phone:PhoneApplicationPage  xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    x:Class="chotatsu.result"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait" mc:Ignorable="d d1" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True" xmlns:d1="http://schemas.microsoft.com/expression/blend/2008"  Loaded="PhoneApplicationPage_Loaded">
+
+
+    <phone:PhoneApplicationPage.Resources>
+
+
+
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="Foreground" Value="Black"></Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+
+                        <Grid>
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal"/>
+                                    <VisualState x:Name="MouseOver"/>
+                                    <VisualState x:Name="Pressed">
+
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(Rectangle.Fill)" Storyboard.TargetName="rectangle">
+                                                <DiscreteObjectKeyFrame KeyTime="0">
+                                                    <DiscreteObjectKeyFrame.Value>
+                                                        <Color>CornflowerBlue</Color>
+                                                    </DiscreteObjectKeyFrame.Value>
+                                                </DiscreteObjectKeyFrame>
+                                            </ObjectAnimationUsingKeyFrames>
+
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Disabled"/>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <Rectangle x:Name="rectangle" Fill="Transparent"  Stroke="#a8abad" StrokeThickness="0" />
+                            <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+
+
+        <Style x:Key="ButtonStyle1" TargetType="Button">
+            <Setter Property="Foreground" Value="Black"></Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal"/>
+                                    <VisualState x:Name="MouseOver"/>
+                                    <VisualState x:Name="Pressed">
+
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(Rectangle.Fill)" Storyboard.TargetName="rectangle">
+                                                <DiscreteObjectKeyFrame KeyTime="0">
+                                                    <DiscreteObjectKeyFrame.Value>
+                                                        <Color>CornflowerBlue</Color>
+                                                    </DiscreteObjectKeyFrame.Value>
+                                                </DiscreteObjectKeyFrame>
+                                            </ObjectAnimationUsingKeyFrames>
+
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Disabled"/>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <Rectangle x:Name="rectangle" Fill="White"  Stroke="#a8abad" StrokeThickness="0" />
+                            <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+
+
+    </phone:PhoneApplicationPage.Resources>
+    <!-- root -->
+    <StackPanel Orientation="Vertical" Background="#c5ccd4" >
+
+        <!-- title bar -->
+        <Grid >
+            <Image Height="60" Source="Images/title_bg.png" Stretch="Fill"/>
+            <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" Width="Auto" Text="検索結果"  Margin="0,0,0,0" FontSize="25"/>
+            <Button x:Name="btnMain" Height="60" HorizontalAlignment="Left" Click="btnMain_Click">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Grid>
+                            <Image  Margin="10" VerticalAlignment="Center" HorizontalAlignment="Center" Source="/chotatsu;component/Images/koso1.png"/>
+                            <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" Text="調達.org" FontSize="18"/>
+                        </Grid>
+
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button x:Name="btnSort" BorderThickness="0" Content="ソート" FontSize="20" Height="60" HorizontalAlignment="Right" Click="btnSort_Click" Visibility="Collapsed">
+                <Button.Background>
+
+                    <ImageBrush ImageSource="/chotatsu;component/Images/his.png"/>
+
+                </Button.Background>
+            </Button>
+
+        </Grid>
+
+
+        <ScrollViewer Name="scrV" MaxHeight="708" >
+
+            <Grid>
+                <!--main form-->
+                <StackPanel x:Name="pnlResult" Visibility="Collapsed" Orientation="Vertical" >
+
+                    <!-- input -->
+                    <TextBlock Text="キーワード"  Margin="20" FontSize="25" Foreground="#FF4c566c"/>
+                    <Border Height="60"  Margin="20,0,20,0"  CornerRadius="15" Background="White" BorderThickness="2" BorderBrush="#a8abad">
+                        <Grid>
+                            <TextBlock x:Name="labKeyword" FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black"  Text="出発IC："/>
+                        </Grid>
+                    </Border>
+
+                    <StackPanel x:Name="pnlOrg"  Orientation="Vertical" >
+                        <TextBlock Text="調達組織"  Margin="20" FontSize="25" Foreground="#FF4c566c"/>
+                        <Border Height="60"  Margin="20,0,20,0"  CornerRadius="15" Background="White" BorderThickness="2" BorderBrush="#a8abad">
+                            <Grid>
+                                <TextBlock  x:Name="labOrg"  FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black"  Text="出発IC："/>
+                            </Grid>
+                        </Border>
+                    </StackPanel>
+
+                    <StackPanel x:Name="pnlDate"  Orientation="Vertical" >
+                        <TextBlock Text="入札期限"  Margin="20" FontSize="25" Foreground="#FF4c566c"/>
+                        <Border Height="60"  Margin="20,0,20,0"  CornerRadius="15" Background="White" BorderThickness="2" BorderBrush="#a8abad">
+                            <Grid>
+                                <TextBlock  x:Name="labDate"  FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black"  Text="出発IC："/>
+                            </Grid>
+                        </Border>
+                    </StackPanel>
+
+                    <!--result-->
+                    <TextBlock Name="LabPage" Text="検索結果："  Margin="20" FontSize="25" Foreground="#FF4c566c"/>
+
+
+                    <!-- route -->
+                    <Border Height="15" Margin="20,0,20,0"  CornerRadius="15,15,0,0"  BorderThickness="2,2,2,0" BorderBrush="#a8abad" Background="White">
+                    </Border>
+
+                    <Border Name="prePage" Height="60" Margin="20,0,20,0"   BorderThickness="2,0,2,2" BorderBrush="#a8abad" Background="White">
+
+                        <Button  Style="{StaticResource ButtonStyle1}" Click="Button_Click_1">
+                            <TextBlock Margin="0" HorizontalAlignment="Center" VerticalAlignment="Center" Text="前の50件を検索する" Foreground="Black" FontSize="25" />
+
+                        </Button>
+                    </Border>
+                    <ListBox Name="infoList" Margin="20,0,20,0" ScrollViewer.HorizontalScrollBarVisibility="Disabled"  ScrollViewer.VerticalScrollBarVisibility="Disabled">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <Border    BorderThickness="2,0,2,2" BorderBrush="#a8abad" Background="White">
+                                    <Button Tag="{Binding url}" Style="{StaticResource ButtonStyle1}" Click="Button_Click">
+                                        <Grid  x:Name="backgrid" Height="60" Width="440" >
+                                            <TextBlock Margin="10,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" x:Name="txtOrg" Text="{Binding organization}" Foreground="Black" FontSize="15" />
+                                            <TextBlock Margin="10,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Center" x:Name="txtSub" Text="{Binding subject}"  Foreground="Black"  FontSize="25"/>
+                                            <TextBlock Margin="10,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Bottom" x:Name="txtEndTime" Text="{Binding sbidDeadline}"  Foreground="Black" FontSize="15"/>
+                                            <TextBlock Margin="220,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Bottom" x:Name="txtRegTime" Text="{Binding sregistryDate}"  Foreground="Black" FontSize="15" />
+                                        </Grid>
+                                    </Button>
+                                </Border>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                    <Border  Name="nextPage"  Height="60" Margin="20,0,20,0"  BorderThickness="2,0,2,2" BorderBrush="#a8abad" Background="White">
+
+                        <Button   Style="{StaticResource ButtonStyle1}" Click="Button_Click_2">
+
+                            <TextBlock Name="labNextPage" Margin="0" HorizontalAlignment="Center" VerticalAlignment="Center" Text="後の50件を検索する" Foreground="Black" FontSize="25" />
+
+                        </Button>
+                    </Border>
+                    <Border Height="15" Margin="20,-2,20,20"  CornerRadius="0,0,15,15"  BorderThickness="2,0,2,2" BorderBrush="#a8abad" Background="White">
+                    </Border>
+                </StackPanel>
+
+
+                <!-- sort list -->
+                <Grid Name="sortpop" Visibility="Collapsed">
+                    <Border  Margin="20"  CornerRadius="15" VerticalAlignment="Top" Background="White" BorderThickness="2" BorderBrush="#a8abad">
+
+                        <ListBox Name="lsSort" >
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <Button Name="setSort" Width="440" Height="60"  Content="{Binding}" Style="{StaticResource ButtonStyle}" Click="setSort_Click"></Button>
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </Border>
+                </Grid>
+                <!-- msg box -->
+                <Grid>
+                    <TextBlock Name="msg" Margin="20" Text="データ取得中..." Foreground="Black" FontSize="30" ></TextBlock>
+
+                </Grid>
+            </Grid>
+
+
+        </ScrollViewer>
+
+    </StackPanel>
+
+</phone:PhoneApplicationPage>

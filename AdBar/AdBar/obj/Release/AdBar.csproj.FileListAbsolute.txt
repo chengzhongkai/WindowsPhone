@@ -1,0 +1,5 @@
+C:\Users\cheng\Desktop\AdBar\AdBar\Bin\Release\AdBar.dll
+C:\Users\cheng\Desktop\AdBar\AdBar\Bin\Release\AdBar.pdb
+C:\Users\cheng\Desktop\AdBar\AdBar\obj\Release\ResolveAssemblyReference.cache
+C:\Users\cheng\Desktop\AdBar\AdBar\obj\Release\AdBar.dll
+C:\Users\cheng\Desktop\AdBar\AdBar\obj\Release\AdBar.pdb

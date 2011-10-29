@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdBar", "AdBar\AdBar.csproj", "{45670547-3262-48FC-A9C3-68B20691F735}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneApp1", "PhoneApp1\PhoneApp1.csproj", "{BAA2656E-9939-4AA7-9C8B-62A7B99564EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45670547-3262-48FC-A9C3-68B20691F735}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{45670547-3262-48FC-A9C3-68B20691F735}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{45670547-3262-48FC-A9C3-68B20691F735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45670547-3262-48FC-A9C3-68B20691F735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA2656E-9939-4AA7-9C8B-62A7B99564EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA2656E-9939-4AA7-9C8B-62A7B99564EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA2656E-9939-4AA7-9C8B-62A7B99564EC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BAA2656E-9939-4AA7-9C8B-62A7B99564EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA2656E-9939-4AA7-9C8B-62A7B99564EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA2656E-9939-4AA7-9C8B-62A7B99564EC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

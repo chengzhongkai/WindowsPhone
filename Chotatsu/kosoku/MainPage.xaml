@@ -1,0 +1,175 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="kosoku.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+   xmlns:sys="clr-namespace:System;assembly=mscorlib"
+      xmlns:adbar="clr-namespace:AdBar;assembly=AdBar"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True" xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit">
+
+
+
+    <phone:PhoneApplicationPage.Resources>
+        <Style x:Key="ButtonStyle1" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal"/>
+                                    <VisualState x:Name="MouseOver"/>
+                                    <VisualState x:Name="Pressed">
+
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Margin)" Storyboard.TargetName="rectangle">
+                                                <DiscreteObjectKeyFrame KeyTime="0">
+                                                    <DiscreteObjectKeyFrame.Value>
+                                                        <Thickness>-3</Thickness>
+                                                    </DiscreteObjectKeyFrame.Value>
+                                                </DiscreteObjectKeyFrame>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Disabled"/>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <Rectangle x:Name="rectangle" Fill="{TemplateBinding Background}" RadiusY="20" RadiusX="20" Stroke="White"/>
+                            <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="Foreground" Value="Black"></Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal"/>
+                                    <VisualState x:Name="MouseOver"/>
+                                    <VisualState x:Name="Pressed">
+
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(Rectangle.Fill)" Storyboard.TargetName="rectangle">
+                                                <DiscreteObjectKeyFrame KeyTime="0">
+                                                    <DiscreteObjectKeyFrame.Value>
+                                                        <Color>CornflowerBlue</Color>
+                                                    </DiscreteObjectKeyFrame.Value>
+                                                </DiscreteObjectKeyFrame>
+                                            </ObjectAnimationUsingKeyFrames>
+
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Disabled"/>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <Rectangle x:Name="rectangle" Fill="Yellow" RadiusY="15" RadiusX="15" Stroke="#a8abad" StrokeThickness="2" />
+                            <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                            <TextBlock  Margin="120,0,0,0" Text="検索" Foreground="Black" TextAlignment="Center" VerticalAlignment="Center" FontSize="25"></TextBlock>
+
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style  x:Key="myTBStyle" TargetType="TextBox">
+            <Setter Property="TextAlignment" Value="Center"></Setter>
+        </Style>
+    </phone:PhoneApplicationPage.Resources>
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+
+
+        <StackPanel Orientation="Vertical" Background="#c5ccd4">
+
+
+            <!-- title bar -->
+            <Grid >
+                <Image Height="60" Source="Images/title_bg.png" Stretch="Fill"></Image>
+                <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" Width="Auto" Text="高速.jp"  Margin="0,0,0,0" FontSize="25"></TextBlock>
+                <Button Name="btnHelp" Height="60" HorizontalAlignment="Left" Click="btnHelp_Click">
+                    <Button.Template>
+                        <ControlTemplate>
+                            <Image Margin="10,0,0,0" Source="/kosoku;component/Images/help2.png"></Image>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+                <Button Name="btnHist" Margin="0" BorderThickness="0" Content="検索履歴" FontSize="20" Height="60" HorizontalAlignment="Right" Click="btnHist_Click">
+                    <Button.Background>
+
+                        <ImageBrush ImageSource="/kosoku;component/Images/his.png"/>
+
+                    </Button.Background>
+
+
+                </Button>
+            </Grid>
+
+            <!--Logo-->
+            <Border  Margin="20,20,20,0"  CornerRadius="15" Background="White" BorderThickness="2" BorderBrush="#a8abad">
+
+                <Image Margin="20,20,20,20" Source="/kosoku;component/Images/kosokujp_iphone_logo.png"></Image>
+            </Border>
+
+            <!--出発IC-->
+            <Border  Margin="20,20,20,0"  CornerRadius="15" Background="White" BorderThickness="2" BorderBrush="#a8abad">
+                <Grid>
+                    <toolkit:AutoCompleteBox  TextBoxStyle="{StaticResource myTBStyle}"  HorizontalAlignment="Stretch"  Name="ICS"   Margin="120,0,0,0" Background="#00000000" BorderThickness="0" DropDownOpening="ICS_DropDownOpening" GotFocus="ICS_GotFocus">
+
+
+                    </toolkit:AutoCompleteBox>
+
+                    <TextBlock Margin="10" FontSize="25" HorizontalAlignment="Left" VerticalAlignment="Center" TextAlignment="Center" Foreground="#70b42a"  Text="出発IC："></TextBlock>
+                </Grid>
+            </Border>
+
+            <!--到着IC-->
+            <Border  Margin="20,20,20,0"  CornerRadius="15" Background="White" BorderThickness="2" BorderBrush="#a8abad">
+                <Grid>
+                    <toolkit:AutoCompleteBox TextBoxStyle="{StaticResource myTBStyle}" HorizontalAlignment="Stretch"  Name="ICE"   Margin="120,0,0,0" Background="#00000000" BorderThickness="0" DropDownOpening="ICE_DropDownOpening"></toolkit:AutoCompleteBox>
+                    <TextBlock Margin="10" FontSize="25" HorizontalAlignment="Left" VerticalAlignment="Center" TextAlignment="Center" Foreground="#70b42a"  Text="到着IC："></TextBlock>
+                </Grid>
+            </Border>
+
+            <!--車種-->
+            <Border  Margin="20,20,20,0"  CornerRadius="15" Background="White" BorderThickness="2" BorderBrush="#a8abad">
+                <Grid>
+                    <toolkit:ListPicker Name="listPicker1" Margin="120,0,0,0" Background="#00000000" SelectedIndex="1">
+
+
+                        <TextBlock TextAlignment="Center">軽自動車等</TextBlock>
+                        <TextBlock TextAlignment="Center">普通車</TextBlock>
+                        <TextBlock TextAlignment="Center">中型車</TextBlock>
+                        <TextBlock TextAlignment="Center">大型車</TextBlock>
+                        <TextBlock TextAlignment="Center">特大車</TextBlock>
+
+                    </toolkit:ListPicker>
+                    <TextBlock Margin="10" FontSize="25" HorizontalAlignment="Left" VerticalAlignment="Center" TextAlignment="Center" Foreground="#70b42a"  Text="車種："></TextBlock>
+                </Grid>
+            </Border>
+
+            <Grid>
+                <Button Name="btnSearch"  Style="{StaticResource ButtonStyle}" Height="60" Margin="20" Click="btnSearch_Click"></Button>
+
+            </Grid>
+
+
+        </StackPanel>
+
+        <adbar:AdView mPublisherID="1" VerticalAlignment="Bottom" ></adbar:AdView>
+
+    </Grid>
+</phone:PhoneApplicationPage>

@@ -1,0 +1,76 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="kosoku.Hist"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True" Loaded="PhoneApplicationPage_Loaded">
+	<phone:PhoneApplicationPage.Resources>
+		<Style x:Key="ListBoxItemStyle1" TargetType="ListBoxItem">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="ListBoxItem">
+						<Grid>
+							<VisualStateManager.VisualStateGroups>
+								<VisualStateGroup x:Name="CommonStates">
+									<VisualState x:Name="Normal"/>
+									<VisualState x:Name="MouseOver">
+										<Storyboard>
+											<ColorAnimation Duration="0" To="CornflowerBlue" Storyboard.TargetProperty="(Panel.Background).(SolidColorBrush.Color)" Storyboard.TargetName="grid" d:IsOptimized="True"/>
+										</Storyboard>
+									</VisualState>
+									<VisualState x:Name="Disabled"/>
+								</VisualStateGroup>
+							</VisualStateManager.VisualStateGroups>
+							<Border BorderBrush="#c5ccd4" BorderThickness="0,0,0,2">
+
+								<Grid x:Name="grid"  Height="60" Width="440" Background="Transparent"/>
+							</Border>
+							<ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+						</Grid>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+			<Setter Property="FontSize" Value="25"/>
+			<Setter Property="Foreground" Value="Black"/>
+		</Style>
+	</phone:PhoneApplicationPage.Resources>
+
+    <StackPanel Orientation="Vertical" Background="#c5ccd4">
+        <!-- title bar -->
+        <Grid >
+            <Image Height="60" Source="Images/title_bg.png" Stretch="Fill"></Image>
+            <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" Width="Auto" Text="検索履歴"  Margin="0,0,0,0" FontSize="25"></TextBlock>
+            <Button Name="btnMain" Height="60" HorizontalAlignment="Left" Click="btnMain_Click">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Grid>
+                            <Image  Margin="10" VerticalAlignment="Center" HorizontalAlignment="Center" Source="/kosoku;component/Images/koso1.png"></Image>
+                            <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" Text="高速.jp" FontSize="18"></TextBlock>
+                        </Grid>
+
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </Grid>
+        <!--history-->
+        <Border Name="listBord"  Margin="20,20,20,0"  CornerRadius="15" Background="White" BorderThickness="2,2,2,1" BorderBrush="#a8abad">
+            <ListBox Name="histList" SelectionChanged="histList_SelectionChanged">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <ListBoxItem Content="{Binding}" Style="{StaticResource ListBoxItemStyle1}"/>
+
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+
+            </ListBox>
+        </Border>
+  </StackPanel>
+</phone:PhoneApplicationPage>

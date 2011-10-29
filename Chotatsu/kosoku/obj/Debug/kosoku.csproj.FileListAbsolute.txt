@@ -1,0 +1,326 @@
+c:\users\first\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\ApplicationIcon.png
+c:\users\first\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\Background.png
+c:\users\first\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\kosoku.dll
+c:\users\first\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\kosoku.pdb
+c:\users\first\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\AppManifest.xaml
+c:\users\first\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\kosoku.xap
+c:\users\first\documents\visual studio 2010\Projects\kosoku\kosoku\obj\Debug\ResolveAssemblyReference.cache
+c:\users\first\documents\visual studio 2010\Projects\kosoku\kosoku\obj\Debug\App.g.i.cs
+c:\users\first\documents\visual studio 2010\Projects\kosoku\kosoku\obj\Debug\MainPage.g.i.cs
+c:\users\first\documents\visual studio 2010\Projects\kosoku\kosoku\obj\Debug\kosoku.g.resources
+c:\users\first\documents\visual studio 2010\Projects\kosoku\kosoku\obj\Debug\kosoku.dll
+c:\users\first\documents\visual studio 2010\Projects\kosoku\kosoku\obj\Debug\kosoku.pdb
+c:\users\first\documents\visual studio 2010\Projects\kosoku\kosoku\obj\Debug\XapCacheFile.xml
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\obj\Debug\result.g.i.cs
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\System.ServiceModel.Syndication.dll
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\System.Xml.Serialization.dll
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\System.Xml.Serialization.xml
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\de\System.ServiceModel.Syndication.resources.dll
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\es\System.ServiceModel.Syndication.resources.dll
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\fr\System.ServiceModel.Syndication.resources.dll
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\it\System.ServiceModel.Syndication.resources.dll
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\ja\System.ServiceModel.Syndication.resources.dll
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\ko\System.ServiceModel.Syndication.resources.dll
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\ru\System.ServiceModel.Syndication.resources.dll
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\zh-Hans\System.ServiceModel.Syndication.resources.dll
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\zh-Hant\System.ServiceModel.Syndication.resources.dll
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\de\System.Xml.Serialization.resources.dll
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\es\System.Xml.Serialization.resources.dll
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\it\System.Xml.Serialization.resources.dll
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+C:\Users\First\documents\visual studio 2010\Projects\kosoku\kosoku\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+C:\Users\First\Documents\Visual Studio 2010\Projects\kosoku\kosoku\obj\Debug\detail.g.i.cs
+G:\kosoku\kosoku\Bin\Debug\ApplicationIcon.png
+G:\kosoku\kosoku\Bin\Debug\Background.png
+G:\kosoku\kosoku\Bin\Debug\kosoku.dll
+G:\kosoku\kosoku\Bin\Debug\kosoku.pdb
+G:\kosoku\kosoku\Bin\Debug\AppManifest.xaml
+G:\kosoku\kosoku\Bin\Debug\kosoku.xap
+G:\kosoku\kosoku\Bin\Debug\System.Xml.Serialization.dll
+G:\kosoku\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+G:\kosoku\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+G:\kosoku\kosoku\Bin\Debug\System.ServiceModel.Syndication.xml
+G:\kosoku\kosoku\Bin\Debug\System.Xml.Serialization.xml
+G:\kosoku\kosoku\Bin\Debug\de\System.ServiceModel.Syndication.resources.dll
+G:\kosoku\kosoku\Bin\Debug\es\System.ServiceModel.Syndication.resources.dll
+G:\kosoku\kosoku\Bin\Debug\fr\System.ServiceModel.Syndication.resources.dll
+G:\kosoku\kosoku\Bin\Debug\it\System.ServiceModel.Syndication.resources.dll
+G:\kosoku\kosoku\Bin\Debug\ja\System.ServiceModel.Syndication.resources.dll
+G:\kosoku\kosoku\Bin\Debug\ko\System.ServiceModel.Syndication.resources.dll
+G:\kosoku\kosoku\Bin\Debug\ru\System.ServiceModel.Syndication.resources.dll
+G:\kosoku\kosoku\Bin\Debug\zh-Hans\System.ServiceModel.Syndication.resources.dll
+G:\kosoku\kosoku\Bin\Debug\zh-Hant\System.ServiceModel.Syndication.resources.dll
+G:\kosoku\kosoku\Bin\Debug\de\System.Xml.Serialization.resources.dll
+G:\kosoku\kosoku\Bin\Debug\es\System.Xml.Serialization.resources.dll
+G:\kosoku\kosoku\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+G:\kosoku\kosoku\Bin\Debug\it\System.Xml.Serialization.resources.dll
+G:\kosoku\kosoku\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+G:\kosoku\kosoku\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+G:\kosoku\kosoku\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+G:\kosoku\kosoku\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+G:\kosoku\kosoku\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+G:\kosoku\kosoku\obj\Debug\ResolveAssemblyReference.cache
+G:\kosoku\kosoku\obj\Debug\App.g.i.cs
+G:\kosoku\kosoku\obj\Debug\MainPage.g.i.cs
+G:\kosoku\kosoku\obj\Debug\detail.g.i.cs
+G:\kosoku\kosoku\obj\Debug\result.g.i.cs
+G:\kosoku\kosoku\obj\Debug\kosoku.g.resources
+G:\kosoku\kosoku\obj\Debug\kosoku.dll
+G:\kosoku\kosoku\obj\Debug\kosoku.pdb
+G:\kosoku\kosoku\obj\Debug\XapCacheFile.xml
+C:\Users\First\Documents\Visual Studio 2010\Projects\kosoku\kosoku\obj\Debug\help.g.i.cs
+C:\Users\First\Documents\Visual Studio 2010\Projects\kosoku\kosoku\obj\Debug\Hist.g.i.cs
+G:\kosoku\kosoku\obj\Debug\help.g.i.cs
+G:\kosoku\kosoku\obj\Debug\Hist.g.i.cs
+H:\kosoku\kosoku\Bin\Debug\ApplicationIcon.png
+H:\kosoku\kosoku\Bin\Debug\Background.png
+H:\kosoku\kosoku\Bin\Debug\kosoku.dll
+H:\kosoku\kosoku\Bin\Debug\kosoku.pdb
+H:\kosoku\kosoku\Bin\Debug\AppManifest.xaml
+H:\kosoku\kosoku\Bin\Debug\kosoku.xap
+H:\kosoku\kosoku\Bin\Debug\System.Xml.Serialization.dll
+H:\kosoku\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+H:\kosoku\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+H:\kosoku\kosoku\Bin\Debug\System.ServiceModel.Syndication.xml
+H:\kosoku\kosoku\Bin\Debug\System.Xml.Serialization.xml
+H:\kosoku\kosoku\Bin\Debug\de\System.ServiceModel.Syndication.resources.dll
+H:\kosoku\kosoku\Bin\Debug\es\System.ServiceModel.Syndication.resources.dll
+H:\kosoku\kosoku\Bin\Debug\fr\System.ServiceModel.Syndication.resources.dll
+H:\kosoku\kosoku\Bin\Debug\it\System.ServiceModel.Syndication.resources.dll
+H:\kosoku\kosoku\Bin\Debug\ja\System.ServiceModel.Syndication.resources.dll
+H:\kosoku\kosoku\Bin\Debug\ko\System.ServiceModel.Syndication.resources.dll
+H:\kosoku\kosoku\Bin\Debug\ru\System.ServiceModel.Syndication.resources.dll
+H:\kosoku\kosoku\Bin\Debug\zh-Hans\System.ServiceModel.Syndication.resources.dll
+H:\kosoku\kosoku\Bin\Debug\zh-Hant\System.ServiceModel.Syndication.resources.dll
+H:\kosoku\kosoku\Bin\Debug\de\System.Xml.Serialization.resources.dll
+H:\kosoku\kosoku\Bin\Debug\es\System.Xml.Serialization.resources.dll
+H:\kosoku\kosoku\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+H:\kosoku\kosoku\Bin\Debug\it\System.Xml.Serialization.resources.dll
+H:\kosoku\kosoku\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+H:\kosoku\kosoku\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+H:\kosoku\kosoku\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+H:\kosoku\kosoku\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+H:\kosoku\kosoku\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+H:\kosoku\kosoku\obj\Debug\ResolveAssemblyReference.cache
+H:\kosoku\kosoku\obj\Debug\App.g.i.cs
+H:\kosoku\kosoku\obj\Debug\help.g.i.cs
+H:\kosoku\kosoku\obj\Debug\Hist.g.i.cs
+H:\kosoku\kosoku\obj\Debug\MainPage.g.i.cs
+H:\kosoku\kosoku\obj\Debug\detail.g.i.cs
+H:\kosoku\kosoku\obj\Debug\result.g.i.cs
+H:\kosoku\kosoku\obj\Debug\kosoku.g.resources
+H:\kosoku\kosoku\obj\Debug\kosoku.dll
+H:\kosoku\kosoku\obj\Debug\kosoku.pdb
+H:\kosoku\kosoku\obj\Debug\XapCacheFile.xml
+F:\kosoku\kosoku\Bin\Debug\ApplicationIcon.png
+F:\kosoku\kosoku\Bin\Debug\Background.png
+F:\kosoku\kosoku\Bin\Debug\kosoku.dll
+F:\kosoku\kosoku\Bin\Debug\kosoku.pdb
+F:\kosoku\kosoku\Bin\Debug\AppManifest.xaml
+F:\kosoku\kosoku\Bin\Debug\kosoku.xap
+F:\kosoku\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+F:\kosoku\kosoku\Bin\Debug\System.Xml.Serialization.dll
+F:\kosoku\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+F:\kosoku\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+F:\kosoku\kosoku\Bin\Debug\System.ServiceModel.Syndication.xml
+F:\kosoku\kosoku\Bin\Debug\System.Xml.Serialization.xml
+F:\kosoku\kosoku\Bin\Debug\de\System.ServiceModel.Syndication.resources.dll
+F:\kosoku\kosoku\Bin\Debug\es\System.ServiceModel.Syndication.resources.dll
+F:\kosoku\kosoku\Bin\Debug\fr\System.ServiceModel.Syndication.resources.dll
+F:\kosoku\kosoku\Bin\Debug\it\System.ServiceModel.Syndication.resources.dll
+F:\kosoku\kosoku\Bin\Debug\ja\System.ServiceModel.Syndication.resources.dll
+F:\kosoku\kosoku\Bin\Debug\ko\System.ServiceModel.Syndication.resources.dll
+F:\kosoku\kosoku\Bin\Debug\ru\System.ServiceModel.Syndication.resources.dll
+F:\kosoku\kosoku\Bin\Debug\zh-Hans\System.ServiceModel.Syndication.resources.dll
+F:\kosoku\kosoku\Bin\Debug\zh-Hant\System.ServiceModel.Syndication.resources.dll
+F:\kosoku\kosoku\Bin\Debug\de\System.Xml.Serialization.resources.dll
+F:\kosoku\kosoku\Bin\Debug\es\System.Xml.Serialization.resources.dll
+F:\kosoku\kosoku\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+F:\kosoku\kosoku\Bin\Debug\it\System.Xml.Serialization.resources.dll
+F:\kosoku\kosoku\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+F:\kosoku\kosoku\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+F:\kosoku\kosoku\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+F:\kosoku\kosoku\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+F:\kosoku\kosoku\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+F:\kosoku\kosoku\obj\Debug\ResolveAssemblyReference.cache
+F:\kosoku\kosoku\obj\Debug\App.g.i.cs
+F:\kosoku\kosoku\obj\Debug\help.g.i.cs
+F:\kosoku\kosoku\obj\Debug\Hist.g.i.cs
+F:\kosoku\kosoku\obj\Debug\MainPage.g.i.cs
+F:\kosoku\kosoku\obj\Debug\detail.g.i.cs
+F:\kosoku\kosoku\obj\Debug\result.g.i.cs
+F:\kosoku\kosoku\obj\Debug\kosoku.g.resources
+F:\kosoku\kosoku\obj\Debug\kosoku.dll
+F:\kosoku\kosoku\obj\Debug\kosoku.pdb
+F:\kosoku\kosoku\obj\Debug\XapCacheFile.xml
+D:\kosoku\kosoku\Bin\Debug\ApplicationIcon.png
+D:\kosoku\kosoku\Bin\Debug\Background.png
+D:\kosoku\kosoku\Bin\Debug\kosoku.dll
+D:\kosoku\kosoku\Bin\Debug\kosoku.pdb
+D:\kosoku\kosoku\Bin\Debug\AppManifest.xaml
+D:\kosoku\kosoku\Bin\Debug\kosoku.xap
+D:\kosoku\kosoku\Bin\Debug\System.Xml.Serialization.dll
+D:\kosoku\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+D:\kosoku\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+D:\kosoku\kosoku\Bin\Debug\System.ServiceModel.Syndication.xml
+D:\kosoku\kosoku\Bin\Debug\System.Xml.Serialization.xml
+D:\kosoku\kosoku\Bin\Debug\de\System.ServiceModel.Syndication.resources.dll
+D:\kosoku\kosoku\Bin\Debug\es\System.ServiceModel.Syndication.resources.dll
+D:\kosoku\kosoku\Bin\Debug\fr\System.ServiceModel.Syndication.resources.dll
+D:\kosoku\kosoku\Bin\Debug\it\System.ServiceModel.Syndication.resources.dll
+D:\kosoku\kosoku\Bin\Debug\ja\System.ServiceModel.Syndication.resources.dll
+D:\kosoku\kosoku\Bin\Debug\ko\System.ServiceModel.Syndication.resources.dll
+D:\kosoku\kosoku\Bin\Debug\ru\System.ServiceModel.Syndication.resources.dll
+D:\kosoku\kosoku\Bin\Debug\zh-Hans\System.ServiceModel.Syndication.resources.dll
+D:\kosoku\kosoku\Bin\Debug\zh-Hant\System.ServiceModel.Syndication.resources.dll
+D:\kosoku\kosoku\Bin\Debug\de\System.Xml.Serialization.resources.dll
+D:\kosoku\kosoku\Bin\Debug\es\System.Xml.Serialization.resources.dll
+D:\kosoku\kosoku\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+D:\kosoku\kosoku\Bin\Debug\it\System.Xml.Serialization.resources.dll
+D:\kosoku\kosoku\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+D:\kosoku\kosoku\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+D:\kosoku\kosoku\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+D:\kosoku\kosoku\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+D:\kosoku\kosoku\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+D:\kosoku\kosoku\obj\Debug\ResolveAssemblyReference.cache
+D:\kosoku\kosoku\obj\Debug\App.g.i.cs
+D:\kosoku\kosoku\obj\Debug\help.g.i.cs
+D:\kosoku\kosoku\obj\Debug\Hist.g.i.cs
+D:\kosoku\kosoku\obj\Debug\MainPage.g.i.cs
+D:\kosoku\kosoku\obj\Debug\detail.g.i.cs
+D:\kosoku\kosoku\obj\Debug\result.g.i.cs
+D:\kosoku\kosoku\obj\Debug\kosoku.g.resources
+D:\kosoku\kosoku\obj\Debug\kosoku.dll
+D:\kosoku\kosoku\obj\Debug\kosoku.pdb
+D:\kosoku\kosoku\obj\Debug\XapCacheFile.xml
+E:\kosoku\kosoku\Bin\Debug\ApplicationIcon.png
+E:\kosoku\kosoku\Bin\Debug\Background.png
+E:\kosoku\kosoku\Bin\Debug\kosoku.dll
+E:\kosoku\kosoku\Bin\Debug\kosoku.pdb
+E:\kosoku\kosoku\Bin\Debug\AppManifest.xaml
+E:\kosoku\kosoku\Bin\Debug\kosoku.xap
+E:\kosoku\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\kosoku\kosoku\Bin\Debug\System.Xml.Serialization.dll
+E:\kosoku\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+E:\kosoku\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+E:\kosoku\kosoku\Bin\Debug\System.ServiceModel.Syndication.xml
+E:\kosoku\kosoku\Bin\Debug\System.Xml.Serialization.xml
+E:\kosoku\kosoku\Bin\Debug\de\System.ServiceModel.Syndication.resources.dll
+E:\kosoku\kosoku\Bin\Debug\es\System.ServiceModel.Syndication.resources.dll
+E:\kosoku\kosoku\Bin\Debug\fr\System.ServiceModel.Syndication.resources.dll
+E:\kosoku\kosoku\Bin\Debug\it\System.ServiceModel.Syndication.resources.dll
+E:\kosoku\kosoku\Bin\Debug\ja\System.ServiceModel.Syndication.resources.dll
+E:\kosoku\kosoku\Bin\Debug\ko\System.ServiceModel.Syndication.resources.dll
+E:\kosoku\kosoku\Bin\Debug\ru\System.ServiceModel.Syndication.resources.dll
+E:\kosoku\kosoku\Bin\Debug\zh-Hans\System.ServiceModel.Syndication.resources.dll
+E:\kosoku\kosoku\Bin\Debug\zh-Hant\System.ServiceModel.Syndication.resources.dll
+E:\kosoku\kosoku\Bin\Debug\de\System.Xml.Serialization.resources.dll
+E:\kosoku\kosoku\Bin\Debug\es\System.Xml.Serialization.resources.dll
+E:\kosoku\kosoku\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+E:\kosoku\kosoku\Bin\Debug\it\System.Xml.Serialization.resources.dll
+E:\kosoku\kosoku\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+E:\kosoku\kosoku\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+E:\kosoku\kosoku\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+E:\kosoku\kosoku\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+E:\kosoku\kosoku\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+E:\kosoku\kosoku\obj\Debug\ResolveAssemblyReference.cache
+E:\kosoku\kosoku\obj\Debug\App.g.i.cs
+E:\kosoku\kosoku\obj\Debug\help.g.i.cs
+E:\kosoku\kosoku\obj\Debug\Hist.g.i.cs
+E:\kosoku\kosoku\obj\Debug\MainPage.g.i.cs
+E:\kosoku\kosoku\obj\Debug\detail.g.i.cs
+E:\kosoku\kosoku\obj\Debug\result.g.i.cs
+E:\kosoku\kosoku\obj\Debug\kosoku.g.resources
+E:\kosoku\kosoku\obj\Debug\kosoku.dll
+E:\kosoku\kosoku\obj\Debug\kosoku.pdb
+E:\kosoku\kosoku\obj\Debug\XapCacheFile.xml
+H:\AndroidApp\kosoku\Bin\Debug\ApplicationIcon.png
+H:\AndroidApp\kosoku\Bin\Debug\Background.png
+H:\AndroidApp\kosoku\Bin\Debug\kosoku.dll
+H:\AndroidApp\kosoku\Bin\Debug\kosoku.pdb
+H:\AndroidApp\kosoku\Bin\Debug\AppManifest.xaml
+H:\AndroidApp\kosoku\Bin\Debug\kosoku.xap
+H:\AndroidApp\kosoku\Bin\Debug\System.Xml.Serialization.dll
+H:\AndroidApp\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+H:\AndroidApp\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+H:\AndroidApp\kosoku\Bin\Debug\System.ServiceModel.Syndication.xml
+H:\AndroidApp\kosoku\Bin\Debug\System.Xml.Serialization.xml
+H:\AndroidApp\kosoku\Bin\Debug\de\System.ServiceModel.Syndication.resources.dll
+H:\AndroidApp\kosoku\Bin\Debug\es\System.ServiceModel.Syndication.resources.dll
+H:\AndroidApp\kosoku\Bin\Debug\fr\System.ServiceModel.Syndication.resources.dll
+H:\AndroidApp\kosoku\Bin\Debug\it\System.ServiceModel.Syndication.resources.dll
+H:\AndroidApp\kosoku\Bin\Debug\ja\System.ServiceModel.Syndication.resources.dll
+H:\AndroidApp\kosoku\Bin\Debug\ko\System.ServiceModel.Syndication.resources.dll
+H:\AndroidApp\kosoku\Bin\Debug\ru\System.ServiceModel.Syndication.resources.dll
+H:\AndroidApp\kosoku\Bin\Debug\zh-Hans\System.ServiceModel.Syndication.resources.dll
+H:\AndroidApp\kosoku\Bin\Debug\zh-Hant\System.ServiceModel.Syndication.resources.dll
+H:\AndroidApp\kosoku\Bin\Debug\de\System.Xml.Serialization.resources.dll
+H:\AndroidApp\kosoku\Bin\Debug\es\System.Xml.Serialization.resources.dll
+H:\AndroidApp\kosoku\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+H:\AndroidApp\kosoku\Bin\Debug\it\System.Xml.Serialization.resources.dll
+H:\AndroidApp\kosoku\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+H:\AndroidApp\kosoku\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+H:\AndroidApp\kosoku\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+H:\AndroidApp\kosoku\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+H:\AndroidApp\kosoku\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+H:\AndroidApp\kosoku\obj\Debug\ResolveAssemblyReference.cache
+H:\AndroidApp\kosoku\obj\Debug\App.g.i.cs
+H:\AndroidApp\kosoku\obj\Debug\help.g.i.cs
+H:\AndroidApp\kosoku\obj\Debug\Hist.g.i.cs
+H:\AndroidApp\kosoku\obj\Debug\MainPage.g.i.cs
+H:\AndroidApp\kosoku\obj\Debug\detail.g.i.cs
+H:\AndroidApp\kosoku\obj\Debug\result.g.i.cs
+H:\AndroidApp\kosoku\obj\Debug\kosoku.g.resources
+H:\AndroidApp\kosoku\obj\Debug\kosoku.dll
+H:\AndroidApp\kosoku\obj\Debug\kosoku.pdb
+H:\AndroidApp\kosoku\obj\Debug\XapCacheFile.xml
+E:\AndroidApp\kosoku\Bin\Debug\ApplicationIcon.png
+E:\AndroidApp\kosoku\Bin\Debug\Background.png
+E:\AndroidApp\kosoku\Bin\Debug\kosoku.dll
+E:\AndroidApp\kosoku\Bin\Debug\kosoku.pdb
+E:\AndroidApp\kosoku\Bin\Debug\AppManifest.xaml
+E:\AndroidApp\kosoku\Bin\Debug\kosoku.xap
+E:\AndroidApp\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\AndroidApp\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+E:\AndroidApp\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+E:\AndroidApp\kosoku\obj\Debug\ResolveAssemblyReference.cache
+E:\AndroidApp\kosoku\obj\Debug\App.g.i.cs
+E:\AndroidApp\kosoku\obj\Debug\help.g.i.cs
+E:\AndroidApp\kosoku\obj\Debug\Hist.g.i.cs
+E:\AndroidApp\kosoku\obj\Debug\MainPage.g.i.cs
+E:\AndroidApp\kosoku\obj\Debug\detail.g.i.cs
+E:\AndroidApp\kosoku\obj\Debug\result.g.i.cs
+E:\AndroidApp\kosoku\obj\Debug\kosoku.g.resources
+E:\AndroidApp\kosoku\obj\Debug\kosoku.dll
+E:\AndroidApp\kosoku\obj\Debug\kosoku.pdb
+E:\AndroidApp\kosoku\obj\Debug\XapCacheFile.xml
+C:\Users\cheng\Desktop\AndroidApp\kosoku\Bin\Debug\ApplicationIcon.png
+C:\Users\cheng\Desktop\AndroidApp\kosoku\Bin\Debug\Background.png
+C:\Users\cheng\Desktop\AndroidApp\kosoku\Bin\Debug\kosoku.dll
+C:\Users\cheng\Desktop\AndroidApp\kosoku\Bin\Debug\kosoku.pdb
+C:\Users\cheng\Desktop\AndroidApp\kosoku\Bin\Debug\AppManifest.xaml
+C:\Users\cheng\Desktop\AndroidApp\kosoku\Bin\Debug\kosoku.xap
+C:\Users\cheng\Desktop\AndroidApp\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\cheng\Desktop\AndroidApp\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\cheng\Desktop\AndroidApp\kosoku\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\cheng\Desktop\AndroidApp\kosoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cheng\Desktop\AndroidApp\kosoku\obj\Debug\App.g.i.cs
+C:\Users\cheng\Desktop\AndroidApp\kosoku\obj\Debug\help.g.i.cs
+C:\Users\cheng\Desktop\AndroidApp\kosoku\obj\Debug\Hist.g.i.cs
+C:\Users\cheng\Desktop\AndroidApp\kosoku\obj\Debug\MainPage.g.i.cs
+C:\Users\cheng\Desktop\AndroidApp\kosoku\obj\Debug\detail.g.i.cs
+C:\Users\cheng\Desktop\AndroidApp\kosoku\obj\Debug\result.g.i.cs
+C:\Users\cheng\Desktop\AndroidApp\kosoku\obj\Debug\kosoku.g.resources
+C:\Users\cheng\Desktop\AndroidApp\kosoku\obj\Debug\kosoku.dll
+C:\Users\cheng\Desktop\AndroidApp\kosoku\obj\Debug\kosoku.pdb
+C:\Users\cheng\Desktop\AndroidApp\kosoku\obj\Debug\XapCacheFile.xml
+C:\Users\cheng\Desktop\AndroidApp\kosoku\Bin\Debug\AdBar.dll
+C:\Users\cheng\Desktop\AndroidApp\kosoku\Bin\Debug\AdBar.pdb

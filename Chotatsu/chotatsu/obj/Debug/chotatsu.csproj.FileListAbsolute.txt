@@ -1,0 +1,158 @@
+C:\Users\First\Documents\Visual Studio 2010\Projects\kosoku\chotatsu\Bin\Debug\ApplicationIcon.png
+C:\Users\First\Documents\Visual Studio 2010\Projects\kosoku\chotatsu\Bin\Debug\Background.png
+C:\Users\First\Documents\Visual Studio 2010\Projects\kosoku\chotatsu\Bin\Debug\chotatsu.dll
+C:\Users\First\Documents\Visual Studio 2010\Projects\kosoku\chotatsu\Bin\Debug\chotatsu.pdb
+C:\Users\First\Documents\Visual Studio 2010\Projects\kosoku\chotatsu\Bin\Debug\AppManifest.xaml
+C:\Users\First\Documents\Visual Studio 2010\Projects\kosoku\chotatsu\Bin\Debug\chotatsu.xap
+C:\Users\First\Documents\Visual Studio 2010\Projects\kosoku\chotatsu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\First\Documents\Visual Studio 2010\Projects\kosoku\chotatsu\obj\Debug\App.g.i.cs
+C:\Users\First\Documents\Visual Studio 2010\Projects\kosoku\chotatsu\obj\Debug\MainPage.g.i.cs
+C:\Users\First\Documents\Visual Studio 2010\Projects\kosoku\chotatsu\obj\Debug\chotatsu.g.resources
+C:\Users\First\Documents\Visual Studio 2010\Projects\kosoku\chotatsu\obj\Debug\chotatsu.dll
+C:\Users\First\Documents\Visual Studio 2010\Projects\kosoku\chotatsu\obj\Debug\chotatsu.pdb
+C:\Users\First\Documents\Visual Studio 2010\Projects\kosoku\chotatsu\obj\Debug\XapCacheFile.xml
+C:\Users\First\Documents\Visual Studio 2010\Projects\kosoku\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\First\Documents\Visual Studio 2010\Projects\kosoku\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\First\Documents\Visual Studio 2010\Projects\kosoku\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+G:\kosoku\chotatsu\Bin\Debug\ApplicationIcon.png
+G:\kosoku\chotatsu\Bin\Debug\Background.png
+G:\kosoku\chotatsu\Bin\Debug\chotatsu.dll
+G:\kosoku\chotatsu\Bin\Debug\chotatsu.pdb
+G:\kosoku\chotatsu\Bin\Debug\AppManifest.xaml
+G:\kosoku\chotatsu\Bin\Debug\chotatsu.xap
+G:\kosoku\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+G:\kosoku\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+G:\kosoku\chotatsu\obj\Debug\ResolveAssemblyReference.cache
+G:\kosoku\chotatsu\obj\Debug\App.g.i.cs
+G:\kosoku\chotatsu\obj\Debug\MainPage.g.i.cs
+G:\kosoku\chotatsu\obj\Debug\chotatsu.g.resources
+G:\kosoku\chotatsu\obj\Debug\chotatsu.dll
+G:\kosoku\chotatsu\obj\Debug\chotatsu.pdb
+G:\kosoku\chotatsu\obj\Debug\XapCacheFile.xml
+G:\kosoku\chotatsu\obj\Debug\help.g.i.cs
+G:\kosoku\chotatsu\obj\Debug\result.g.i.cs
+H:\kosoku\chotatsu\Bin\Debug\ApplicationIcon.png
+H:\kosoku\chotatsu\Bin\Debug\Background.png
+H:\kosoku\chotatsu\Bin\Debug\chotatsu.dll
+H:\kosoku\chotatsu\Bin\Debug\chotatsu.pdb
+H:\kosoku\chotatsu\Bin\Debug\AppManifest.xaml
+H:\kosoku\chotatsu\Bin\Debug\chotatsu.xap
+H:\kosoku\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+H:\kosoku\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+H:\kosoku\chotatsu\obj\Debug\ResolveAssemblyReference.cache
+H:\kosoku\chotatsu\obj\Debug\App.g.i.cs
+H:\kosoku\chotatsu\obj\Debug\help.g.i.cs
+H:\kosoku\chotatsu\obj\Debug\MainPage.g.i.cs
+H:\kosoku\chotatsu\obj\Debug\result.g.i.cs
+H:\kosoku\chotatsu\obj\Debug\chotatsu.g.resources
+H:\kosoku\chotatsu\obj\Debug\chotatsu.dll
+H:\kosoku\chotatsu\obj\Debug\chotatsu.pdb
+H:\kosoku\chotatsu\obj\Debug\XapCacheFile.xml
+F:\kosoku\chotatsu\Bin\Debug\ApplicationIcon.png
+F:\kosoku\chotatsu\Bin\Debug\Background.png
+F:\kosoku\chotatsu\Bin\Debug\chotatsu.dll
+F:\kosoku\chotatsu\Bin\Debug\chotatsu.pdb
+F:\kosoku\chotatsu\Bin\Debug\AppManifest.xaml
+F:\kosoku\chotatsu\Bin\Debug\chotatsu.xap
+F:\kosoku\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+F:\kosoku\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+F:\kosoku\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+F:\kosoku\chotatsu\obj\Debug\ResolveAssemblyReference.cache
+F:\kosoku\chotatsu\obj\Debug\App.g.i.cs
+F:\kosoku\chotatsu\obj\Debug\help.g.i.cs
+F:\kosoku\chotatsu\obj\Debug\MainPage.g.i.cs
+F:\kosoku\chotatsu\obj\Debug\result.g.i.cs
+F:\kosoku\chotatsu\obj\Debug\chotatsu.g.resources
+F:\kosoku\chotatsu\obj\Debug\chotatsu.dll
+F:\kosoku\chotatsu\obj\Debug\chotatsu.pdb
+F:\kosoku\chotatsu\obj\Debug\XapCacheFile.xml
+D:\kosoku\chotatsu\Bin\Debug\ApplicationIcon.png
+D:\kosoku\chotatsu\Bin\Debug\Background.png
+D:\kosoku\chotatsu\Bin\Debug\chotatsu.dll
+D:\kosoku\chotatsu\Bin\Debug\chotatsu.pdb
+D:\kosoku\chotatsu\Bin\Debug\AppManifest.xaml
+D:\kosoku\chotatsu\Bin\Debug\chotatsu.xap
+D:\kosoku\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+D:\kosoku\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+D:\kosoku\chotatsu\obj\Debug\ResolveAssemblyReference.cache
+D:\kosoku\chotatsu\obj\Debug\App.g.i.cs
+D:\kosoku\chotatsu\obj\Debug\help.g.i.cs
+D:\kosoku\chotatsu\obj\Debug\MainPage.g.i.cs
+D:\kosoku\chotatsu\obj\Debug\result.g.i.cs
+D:\kosoku\chotatsu\obj\Debug\chotatsu.g.resources
+D:\kosoku\chotatsu\obj\Debug\chotatsu.dll
+D:\kosoku\chotatsu\obj\Debug\chotatsu.pdb
+D:\kosoku\chotatsu\obj\Debug\XapCacheFile.xml
+E:\kosoku\chotatsu\Bin\Debug\ApplicationIcon.png
+E:\kosoku\chotatsu\Bin\Debug\Background.png
+E:\kosoku\chotatsu\Bin\Debug\chotatsu.dll
+E:\kosoku\chotatsu\Bin\Debug\chotatsu.pdb
+E:\kosoku\chotatsu\Bin\Debug\AppManifest.xaml
+E:\kosoku\chotatsu\Bin\Debug\chotatsu.xap
+E:\kosoku\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\kosoku\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+E:\kosoku\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+E:\kosoku\chotatsu\obj\Debug\ResolveAssemblyReference.cache
+E:\kosoku\chotatsu\obj\Debug\App.g.i.cs
+E:\kosoku\chotatsu\obj\Debug\help.g.i.cs
+E:\kosoku\chotatsu\obj\Debug\MainPage.g.i.cs
+E:\kosoku\chotatsu\obj\Debug\result.g.i.cs
+E:\kosoku\chotatsu\obj\Debug\chotatsu.g.resources
+E:\kosoku\chotatsu\obj\Debug\chotatsu.dll
+E:\kosoku\chotatsu\obj\Debug\chotatsu.pdb
+E:\kosoku\chotatsu\obj\Debug\XapCacheFile.xml
+H:\AndroidApp\chotatsu\Bin\Debug\ApplicationIcon.png
+H:\AndroidApp\chotatsu\Bin\Debug\Background.png
+H:\AndroidApp\chotatsu\Bin\Debug\chotatsu.dll
+H:\AndroidApp\chotatsu\Bin\Debug\chotatsu.pdb
+H:\AndroidApp\chotatsu\Bin\Debug\AppManifest.xaml
+H:\AndroidApp\chotatsu\Bin\Debug\chotatsu.xap
+H:\AndroidApp\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+H:\AndroidApp\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+H:\AndroidApp\chotatsu\obj\Debug\ResolveAssemblyReference.cache
+H:\AndroidApp\chotatsu\obj\Debug\App.g.i.cs
+H:\AndroidApp\chotatsu\obj\Debug\help.g.i.cs
+H:\AndroidApp\chotatsu\obj\Debug\MainPage.g.i.cs
+H:\AndroidApp\chotatsu\obj\Debug\result.g.i.cs
+H:\AndroidApp\chotatsu\obj\Debug\chotatsu.g.resources
+H:\AndroidApp\chotatsu\obj\Debug\chotatsu.dll
+H:\AndroidApp\chotatsu\obj\Debug\chotatsu.pdb
+H:\AndroidApp\chotatsu\obj\Debug\XapCacheFile.xml
+E:\AndroidApp\chotatsu\Bin\Debug\ApplicationIcon.png
+E:\AndroidApp\chotatsu\Bin\Debug\Background.png
+E:\AndroidApp\chotatsu\Bin\Debug\chotatsu.dll
+E:\AndroidApp\chotatsu\Bin\Debug\chotatsu.pdb
+E:\AndroidApp\chotatsu\Bin\Debug\AppManifest.xaml
+E:\AndroidApp\chotatsu\Bin\Debug\chotatsu.xap
+E:\AndroidApp\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\AndroidApp\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+E:\AndroidApp\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+E:\AndroidApp\chotatsu\obj\Debug\ResolveAssemblyReference.cache
+E:\AndroidApp\chotatsu\obj\Debug\App.g.i.cs
+E:\AndroidApp\chotatsu\obj\Debug\help.g.i.cs
+E:\AndroidApp\chotatsu\obj\Debug\MainPage.g.i.cs
+E:\AndroidApp\chotatsu\obj\Debug\result.g.i.cs
+E:\AndroidApp\chotatsu\obj\Debug\chotatsu.g.resources
+E:\AndroidApp\chotatsu\obj\Debug\chotatsu.dll
+E:\AndroidApp\chotatsu\obj\Debug\chotatsu.pdb
+E:\AndroidApp\chotatsu\obj\Debug\XapCacheFile.xml
+C:\Users\cheng\Desktop\AndroidApp\chotatsu\Bin\Debug\ApplicationIcon.png
+C:\Users\cheng\Desktop\AndroidApp\chotatsu\Bin\Debug\Background.png
+C:\Users\cheng\Desktop\AndroidApp\chotatsu\Bin\Debug\chotatsu.dll
+C:\Users\cheng\Desktop\AndroidApp\chotatsu\Bin\Debug\chotatsu.pdb
+C:\Users\cheng\Desktop\AndroidApp\chotatsu\Bin\Debug\AppManifest.xaml
+C:\Users\cheng\Desktop\AndroidApp\chotatsu\Bin\Debug\chotatsu.xap
+C:\Users\cheng\Desktop\AndroidApp\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\cheng\Desktop\AndroidApp\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\cheng\Desktop\AndroidApp\chotatsu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\cheng\Desktop\AndroidApp\chotatsu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cheng\Desktop\AndroidApp\chotatsu\obj\Debug\App.g.i.cs
+C:\Users\cheng\Desktop\AndroidApp\chotatsu\obj\Debug\help.g.i.cs
+C:\Users\cheng\Desktop\AndroidApp\chotatsu\obj\Debug\MainPage.g.i.cs
+C:\Users\cheng\Desktop\AndroidApp\chotatsu\obj\Debug\result.g.i.cs
+C:\Users\cheng\Desktop\AndroidApp\chotatsu\obj\Debug\chotatsu.g.resources
+C:\Users\cheng\Desktop\AndroidApp\chotatsu\obj\Debug\chotatsu.dll
+C:\Users\cheng\Desktop\AndroidApp\chotatsu\obj\Debug\chotatsu.pdb
+C:\Users\cheng\Desktop\AndroidApp\chotatsu\obj\Debug\XapCacheFile.xml
+C:\Users\cheng\Desktop\AndroidApp\chotatsu\Bin\Debug\AdBar.dll
+C:\Users\cheng\Desktop\AndroidApp\chotatsu\Bin\Debug\AdBar.pdb

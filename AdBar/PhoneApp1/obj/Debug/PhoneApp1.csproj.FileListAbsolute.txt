@@ -1,0 +1,15 @@
+C:\Users\cheng\Desktop\AdBar\PhoneApp1\Bin\Debug\ApplicationIcon.png
+C:\Users\cheng\Desktop\AdBar\PhoneApp1\Bin\Debug\Background.png
+C:\Users\cheng\Desktop\AdBar\PhoneApp1\Bin\Debug\PhoneApp1.dll
+C:\Users\cheng\Desktop\AdBar\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+C:\Users\cheng\Desktop\AdBar\PhoneApp1\Bin\Debug\AppManifest.xaml
+C:\Users\cheng\Desktop\AdBar\PhoneApp1\Bin\Debug\PhoneApp1.xap
+C:\Users\cheng\Desktop\AdBar\PhoneApp1\Bin\Debug\AdBar.dll
+C:\Users\cheng\Desktop\AdBar\PhoneApp1\Bin\Debug\AdBar.pdb
+C:\Users\cheng\Desktop\AdBar\PhoneApp1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cheng\Desktop\AdBar\PhoneApp1\obj\Debug\App.g.i.cs
+C:\Users\cheng\Desktop\AdBar\PhoneApp1\obj\Debug\MainPage.g.i.cs
+C:\Users\cheng\Desktop\AdBar\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+C:\Users\cheng\Desktop\AdBar\PhoneApp1\obj\Debug\PhoneApp1.dll
+C:\Users\cheng\Desktop\AdBar\PhoneApp1\obj\Debug\PhoneApp1.pdb
+C:\Users\cheng\Desktop\AdBar\PhoneApp1\obj\Debug\XapCacheFile.xml
